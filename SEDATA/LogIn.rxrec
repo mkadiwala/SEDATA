@@ -29,7 +29,11 @@ mode="Global">
 		classname="LogIn"
 		enabled="True"
 		isexternaltestmethod="False"
+<<<<<<< HEAD
 		methodname="Test"
+=======
+		methodname="TEST"
+>>>>>>> f2a7f34b76d3a6fdd7a0a63919533e6797938833
 		namespace="SEDATA"
 		optional="False">
 			<comment>
@@ -37,7 +41,11 @@ mode="Global">
 			<bindings>
 			</bindings>
 			<arguments
+<<<<<<< HEAD
 			id="8950cf04-f34d-4cc8-be45-e21fc8cc318c">
+=======
+			id="b7a3fe05-37d3-4c4a-a58a-83c1c1beed63">
+>>>>>>> f2a7f34b76d3a6fdd7a0a63919533e6797938833
 			</arguments>
 		</userrecorditem>
 	</recorditems>
