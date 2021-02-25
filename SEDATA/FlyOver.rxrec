@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="474c98ce-f643-4f30-9631-720fd3354479"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="FlyOver"
+	namespace="SEDATA">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="dab758f2-abc9-468e-b658-4730fef3c014"
+	name="SEDATARepository"
+	relativepath="SEDATARepository.rxrep">
+		<codegen
+		classname="SEDATARepository"
+		namespace="SEDATA">
+		</codegen>
+		<rootfolder
+		id="a52ede69-57e9-4022-8dee-ee26a697468b"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		FlyOver.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

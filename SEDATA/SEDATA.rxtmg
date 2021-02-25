@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="9.4">
+	<testsuiteentryhierarchy>
+		<flatlistofchildren>
+			<modulegroups
+			id="198b9a1a-9ef4-4a00-9ff1-623a8396a91c"
+			name="SEDATA">
+			</modulegroups>
+			<modulegroupdef
+			id="6aba3880-51d6-485c-b7ab-96c282e16e2b"
+			name="StartUnit">
+			</modulegroupdef>
+			<testmodule
+			id="8f76efbb-2b3a-4f12-a627-ad8a4f43deb6"
+			name="StartAUT"
+			ref="d4302119-b476-4b10-8a6b-9a7930cf3b30"
+			type="Recording">
+			</testmodule>
+			<testmodule
+			id="b53c1ea1-50c0-42bd-a09e-d19fb8bba13a"
+			name="LogIn"
+			ref="7208f2fd-9e9c-48de-9418-e68a021e220a"
+			type="Recording">
+			</testmodule>
+		</flatlistofchildren>
+		<childhierarchy>
+			<modulegroups
+			id="198b9a1a-9ef4-4a00-9ff1-623a8396a91c"
+			name="SEDATA">
+				<modulegroupdef
+				id="6aba3880-51d6-485c-b7ab-96c282e16e2b"
+				name="StartUnit">
+					<testmodule
+					id="b53c1ea1-50c0-42bd-a09e-d19fb8bba13a"
+					name="LogIn">
+					</testmodule>
+					<testmodule
+					id="8f76efbb-2b3a-4f12-a627-ad8a4f43deb6"
+					name="StartAUT">
+					</testmodule>
+				</modulegroupdef>
+			</modulegroups>
+		</childhierarchy>
+	</testsuiteentryhierarchy>
+</modulegroupdoc>
