@@ -33,5 +33,10 @@ namespace SEDATA
             // Your recording specific initialization code goes here.
         }
 
+        public void Test()
+        {
+            int 1;
+        }
+
     }
 }
