@@ -62,7 +62,7 @@
 			</testmodule>
 			<testcase
 			id="1c77c0fc-45f1-47d5-a9a2-e80494945ac2"
-			name="FirstTest">
+			name="FirstTest123">
 			</testcase>
 			<testmodule
 			id="1dc5db63-aec7-439f-911e-186376dbed1c"
@@ -691,7 +691,7 @@
 				name="SEDATA">
 					<testcase
 					id="1c77c0fc-45f1-47d5-a9a2-e80494945ac2"
-					name="FirstTest">
+					name="FirstTest123">
 						<setup
 						id="1e5bf60e-f0c0-4e7b-9423-3cb307e6e498"
 						name="setup">
