@@ -79,6 +79,9 @@ namespace SEDATA
 
             Init();
 
+            TEST();
+            Delay.Milliseconds(0);
+            
         }
 
 #region Image Feature Data

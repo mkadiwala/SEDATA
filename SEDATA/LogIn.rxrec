@@ -25,6 +25,21 @@ mode="Global">
 	<variables>
 	</variables>
 	<recorditems>
+		<userrecorditem
+		classname="LogIn"
+		enabled="True"
+		isexternaltestmethod="False"
+		methodname="TEST"
+		namespace="SEDATA"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<arguments
+			id="b7a3fe05-37d3-4c4a-a58a-83c1c1beed63">
+			</arguments>
+		</userrecorditem>
 	</recorditems>
 	<repository
 	id="dab758f2-abc9-468e-b658-4730fef3c014"
