@@ -527,13 +527,6 @@
     <None Include="app.config">
       <id>db631253-3528-455a-abf3-a53926c60950</id>
     </None>
-    <Content Include="Desktop.xlsx">
-      <Link>Desktop.xlsx</Link>
-      <BoundTo>b46639b0-0def-43b3-b2f1-99e6d2c0c5e6</BoundTo>
-      <DependentUpon>SEDATA.rxtst</DependentUpon>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <id>b068a1f2-873c-4a4c-808f-0273e0c3d829</id>
-    </Content>
     <None Include="DragFile.rxrec">
       <BoundTo>25103317-e04e-4be5-b3bf-3ad570a5494b</BoundTo>
       <id>92282c85-4048-4eb9-84ff-4fb203a9fc28</id>
